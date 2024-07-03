@@ -6,7 +6,7 @@
 
 ## Service Link
 
-> [How's the weather?](https://weather-app-rho-coral.vercel.app/)
+> [How's the weather?](https://weather-app-kappa-wine-42.vercel.app/)
 
 <br>
 
