@@ -50,7 +50,7 @@ OpenWeatherMap API를 활용하여 날씨 데이터를 가져와 사용자에게
 
 <br>
 
-## <a name="quick-start">Program Start</a>
+## <a name="quick-start">Usage</a>
 
 **깃 클론**
 
