@@ -53,7 +53,7 @@ const Weather: React.FC<WeatherProps> = ({ weatherData }) => {
               />
             </div>
             {weatherData.name !== undefined ? (
-              <div className='flex flex-col justify-evenly mt-5 gap-y-1 md:mt-5 md:gap-y-0 md:my-4 md:mr-1 text-sm'>
+              <div className='flex flex-col justify-evenly mt-5 gap-y-1 md:gap-y-0 md:my-4 text-sm'>
                 <div className='flex justify-between gap-x-8'>
                   <p>Feels like</p>
                   <p className='font-bold w-20'>
