@@ -43,14 +43,14 @@ const App: React.FC = () => {
   };
 
   return (
-    <div className='flex flex-col w-full h-full relative gap-10'>
-      <div className='text-center p-4 w-full'>
+    <div className='flex flex-col w-2/3 max-w-[500px] h-full relative gap-10 '>
+      <div className='text-center w-full'>
         <input
           value={location}
           onChange={(event) => setLocation(event.target.value)}
           onKeyDown={searchLocation}
           type='text'
-          className='py-3 px-6 w-[400px] text-lg rounded-3xl border border-none text-[#788A5E] focus:outline-none bg-white-600/90 shadow-md placeholder:text-[#788A5E]'
+          className='py-3 px-4 sm:px-6 lg:px-8 w-full text-lg rounded-3xl border-none text-[#1A1A1A] focus:outline-none bg-white-600/90 shadow-md placeholder:text-[#1A1A1A] bg-[#788A5E]'
           placeholder='Enter location'
         />
       </div>

@@ -32,7 +32,7 @@ const WeatherIcon: React.FC<WeatherIconProps> = ({ icon, description }) => {
 
   return (
     <div>
-      <img src={url} alt={description} className='w-[130px]' />
+      <img src={url} alt={description} className='w-[150px]' />
     </div>
   );
 };
