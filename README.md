@@ -2,7 +2,7 @@
 
 <div align="center">
   <br />
-    이미지삽입
+    <img src="./public/icons/thumbnail.png" width=80%>
   <br />
 </div>
 
