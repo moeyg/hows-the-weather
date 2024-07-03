@@ -8,7 +8,7 @@
 
 ## Service Link
 
-> [How's the weather?](https://weather-19gcmjgpe-moeygs-projects.vercel.app/)
+> [How's the weather?](https://weather-app-psi-two-44.vercel.app/)
 
 <br>
 
